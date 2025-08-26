@@ -61,6 +61,6 @@ python llm_server_t5.py
 - "open a new tab"
 - "scroll down by 200 pixels"
 - "click the sign in button"
-- "go back two steps"
+- "go back"
 - "search up netflix"
 
