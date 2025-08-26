@@ -1,0 +1,28 @@
+# Core ML and Deep Learning
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Transformers and Tokenizers (for fine-tuning)
+transformers==4.35.0
+tokenizers==0.14.0
+datasets==2.14.0
+accelerate==0.24.0
+sentencepiece==0.1.99
+
+# Web Framework
+flask==2.3.3
+
+# Data Processing
+numpy==1.24.3
+scikit-learn==1.3.0
+pandas==2.0.3
+
+# Hugging Face Hub 
+huggingface-hub==0.16.4
+
+# environment variable loading
+python-dotenv==1.0.0
+
+#openAi 
+openai==1.30.5

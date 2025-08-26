@@ -1,0 +1,947 @@
+{"input": "Search for how to change a tire tutorial", "output": "search query=how to change a tire tutorial"}
+{"input": "Search for upcoming technology conferences", "output": "search query=upcoming technology conferences"}
+{"input": "Would you kindly go to youtube.com", "output": "navigate url=http://youtube.com"}
+{"input": "Type hello there! into chat input", "output": "type text=hello there! field=chat input"}
+{"input": "Navigate to bbc.com please.", "output": "navigate url=https://www.bbc.com"}
+{"input": "Click the button that says Sign Up.", "output": "click text=Sign Up"}
+{"input": "Tap the button labeled Start Now.", "output": "click text=Start Now"}
+{"input": "Type Password123 into the password box.", "output": "type text=Password123 field=password"}
+{"input": "Can you search for chocolate cake recipes?", "output": "search query=chocolate cake recipes"}
+{"input": "Open twitter.com.", "output": "navigate url=https://twitter.com"}
+{"input": "Press the Read More link.", "output": "click text=Read More"}
+{"input": "Type John Doe into the name input.", "output": "type text=John Doe field=name"}
+{"input": "Hit the Download button.", "output": "click text=Download"}
+{"input": "Type mysecret in the password space.", "output": "type text=mysecret field=password"}
+{"input": "Would you mind searching for vegan restaurants near me?", "output": "search query=vegan restaurants near me"}
+{"input": "Click on the button labeled Learn More.", "output": "click text=Learn More"}
+{"input": "Type feedback@site.com into the email area.", "output": "type text=feedback@site.com field=email"}
+{"input": "Tap on the link that says Learn More", "output": "click text=Learn More"}
+{"input": "Press the button labeled Subscribe", "output": "click text=Subscribe"}
+{"input": "Type password123 into the password", "output": "type text=password123 field=password"}
+{"input": "Click on the button that reads Sign Up", "output": "click text=Sign Up"}
+{"input": "Type my promo code SAVE20 in the promo code section", "output": "type text=SAVE20 field=promo code"}
+{"input": "Can you search for weather updates?", "output": "search query=weather updates"}
+{"input": "Click on the link that says Contact Us", "output": "click text=Contact Us"}
+{"input": "Type Jane Doe in the name field", "output": "type text=Jane Doe field=name"}
+{"input": "Could you search for translation services online?", "output": "search query=translation services online"}
+{"input": "Click on today's top story on BBC.", "output": "click text=Top Story"}
+{"input": "Search for lasagna recipe.", "output": "search query=lasagna recipe"}
+{"input": "Navigate to amazon.com, please.", "output": "navigate url=https://amazon.com"}
+{"input": "Please type 'Welcome to our service' in the feedback form.", "output": "type text=Welcome to our service field=feedback form"}
+{"input": "Could you search for the latest tech gadgets?", "output": "search query=latest tech gadgets"}
+{"input": "Would you mind heading over to maps.google.com?", "output": "navigate url=https://maps.google.com"}
+{"input": "Press the play button on that video.", "output": "click text=Play"}
+{"input": "Type 12345 as the zip code.", "output": "type text=12345 field=zip code"}
+{"input": "Find out what's the weather like today.", "output": "search query=weather today"}
+{"input": "Visit youtube.com right away.", "output": "navigate url=https://youtube.com"}
+{"input": "Click the download link.", "output": "click text=Download"}
+{"input": "Type 'Happy Birthday!' in the comment box.", "output": "type text=Happy Birthday! field=comment box"}
+{"input": "Search for upcoming concerts near me.", "output": "search query=upcoming concerts near me"}
+{"input": "Could you please open gmail.com?", "output": "navigate url=https://gmail.com"}
+{"input": "Hit the login button.", "output": "click text=Login"}
+{"input": "Type 'password123' into the password area.", "output": "type text=password123 field=password"}
+{"input": "Click the sign up button", "output": "click text=Sign up"}
+{"input": "Tap add to cart", "output": "click text=Add to Cart"}
+{"input": "Press read more", "output": "click text=Read more"}
+{"input": "Search latest tech news", "output": "search query=latest tech news"}
+{"input": "Hit submit review", "output": "click text=Submit review"}
+{"input": "Click play", "output": "click text=Play"}
+{"input": "Tap on the checkout option", "output": "click text=checkout"}
+{"input": "Click the contact us button", "output": "click text=contact us"}
+{"input": "Type Hello, how can I assist you? into chat input", "output": "type text=Hello, how can I assist you? field=chat input"}
+{"input": "Search for tech tutorials on JavaScript", "output": "search query=tech tutorials on JavaScript"}
+{"input": "click on Contact Us", "output": "click text=Contact Us"}
+{"input": "type pizza recipes into search bar", "output": "type text=pizza recipes field=search bar"}
+{"input": "tap on Sign In", "output": "click text=Sign In"}
+{"input": "please go to bbc.com", "output": "navigate url=https://www.bbc.com"}
+{"input": "press on News", "output": "click text=News"}
+{"input": "look up stock prices for Tesla", "output": "search query=stock prices for Tesla"}
+{"input": "could you search for how to make pancakes", "output": "search query=how to make pancakes"}
+{"input": "Head over to twitter.com please.", "output": "navigate url=https://twitter.com"}
+{"input": "Press the buy now button.", "output": "click text=buy now"}
+{"input": "Type john.doe@example.com into email input.", "output": "type text=john.doe@example.com field=email"}
+{"input": "Could you go to amazon.com?", "output": "navigate url=https://amazon.com"}
+{"input": "Click on the subscribe link.", "output": "click text=subscribe"}
+{"input": "Please type hello123 into password.", "output": "type text=hello123 field=password"}
+{"input": "Look up the latest tech news.", "output": "search query=latest tech news"}
+{"input": "Navigate to bbc.com.", "output": "navigate url=https://bbc.com"}
+{"input": "Hit the add to cart option.", "output": "click text=add to cart"}
+{"input": "Enter 123 Main St into address.", "output": "type text=123 Main St field=address"}
+{"input": "Tap the contact us button.", "output": "click text=contact us"}
+{"input": "Type feedback123 into promo code.", "output": "type text=feedback123 field=promo code"}
+{"input": "Please search for stock market updates.", "output": "search query=stock market updates"}
+{"input": "Press the learn more text.", "output": "click text=learn more"}
+{"input": "Enter jane.smith@example.com into username.", "output": "type text=jane.smith@example.com field=username"}
+{"input": "Look up how to tie a tie.", "output": "search query=how to tie a tie"}
+{"input": "Could you please navigate to amazon.com", "output": "navigate url=https://amazon.com"}
+{"input": "Search for weather in London", "output": "search query=weather in London"}
+{"input": "Tap the play button on the video", "output": "click text=Play"}
+{"input": "Click on directions", "output": "click text=Directions"}
+{"input": "Search for the stock price of Tesla", "output": "search query=stock price of Tesla"}
+{"input": "Please go to youtube.com", "output": "navigate url=https://youtube.com"}
+{"input": "Type welcome123 into username", "output": "type text=welcome123 field=username"}
+{"input": "Search for the latest news headlines", "output": "search query=latest news headlines"}
+{"input": "Please type John Doe in the name field", "output": "type text=John Doe field=name"}
+{"input": "Click the contact us text", "output": "click text=contact us"}
+{"input": "Would you mind navigating to youtube.com?", "output": "navigate url=https://youtube.com"}
+{"input": "Type Let's have lunch tomorrow into chat input", "output": "type text=Let's have lunch tomorrow field=chat input"}
+{"input": "Search for translation of hello in Spanish", "output": "search query=translation of hello in Spanish"}
+{"input": "press the submit button", "output": "click text=Submit"}
+{"input": "look up the latest stock quotes", "output": "search query=latest stock quotes"}
+{"input": "tap the buy now option", "output": "click text=Buy Now"}
+{"input": "click the next button please", "output": "click text=Next"}
+{"input": "type Jane Doe in the name field", "output": "type text=Jane Doe field=name"}
+{"input": "type 1234 Elm Street in the address field", "output": "type text=1234 Elm Street field=address"}
+{"input": "search for how to make homemade pasta", "output": "search query=how to make homemade pasta"}
+{"input": "Tap on Sign Up", "output": "click text=Sign Up"}
+{"input": "Type funny cat videos into search bar", "output": "type text=funny cat videos field=search bar"}
+{"input": "Could you find Italian restaurants near me?", "output": "search query=Italian restaurants near me"}
+{"input": "Visit bbc.com for the news", "output": "navigate url=https://bbc.com"}
+{"input": "Press Read More", "output": "click text=Read More"}
+{"input": "Type Main Street into address", "output": "type text=Main Street field=address"}
+{"input": "Select Play All", "output": "click text=Play All"}
+{"input": "Could you please navigate to amazon.com?", "output": "navigate url=https://www.amazon.com"}
+{"input": "Click the sign in button", "output": "click text=Sign In"}
+{"input": "Please go to youtube.com", "output": "navigate url=https://www.youtube.com"}
+{"input": "Press the play button", "output": "click text=Play"}
+{"input": "Find me a chicken curry recipe", "output": "search query=chicken curry recipe"}
+{"input": "Tap the directions link", "output": "click text=Directions"}
+{"input": "Type Central Park into search bar", "output": "type text=Central Park field=search bar"}
+{"input": "Look up stock price for Apple", "output": "search query=Apple stock price"}
+{"input": "Navigate to twitter.com please", "output": "navigate url=https://www.twitter.com"}
+{"input": "Click on the tweet button", "output": "click text=Tweet"}
+{"input": "click the Sign In button", "output": "click text=Sign In"}
+{"input": "load amazon.com please", "output": "navigate url=https://amazon.com"}
+{"input": "tap on the Add to Cart button", "output": "click text=Add to Cart"}
+{"input": "type holiday2023 into promo code", "output": "type text=holiday2023 field=promo code"}
+{"input": "search news headlines about tech innovation", "output": "search query=news headlines about tech innovation"}
+{"input": "click Watch Later", "output": "click text=Watch Later"}
+{"input": "press the Directions button", "output": "click text=Directions"}
+{"input": "Search for the best Italian recipes", "output": "search query=best Italian recipes"}
+{"input": "Tap the sign up link", "output": "click text=sign up"}
+{"input": "Please load youtube.com", "output": "navigate url=https://www.youtube.com"}
+{"input": "tap on the directions button", "output": "click text=Directions"}
+{"input": "type feedback about your service is appreciated into feedback form", "output": "type text=feedback about your service is appreciated field=feedback form"}
+{"input": "Please click on the sign up button", "output": "click text=sign up"}
+{"input": "Search recipes for chocolate cake", "output": "search query=chocolate cake recipes"}
+{"input": "Click on the news section", "output": "click text=news"}
+{"input": "Type feedback about your service was excellent into feedback form", "output": "type text=feedback about your service was excellent field=feedback form"}
+{"input": "Search for stock quotes for Tesla", "output": "search query=Tesla stock quotes"}
+{"input": "Please visit twitter.com", "output": "navigate url=https://twitter.com"}
+{"input": "Tap the like button", "output": "click text=Like"}
+{"input": "Open amazon.com, please", "output": "navigate url=https://www.amazon.com"}
+{"input": "Click the add to cart button", "output": "click text=Add to Cart"}
+{"input": "Search for pasta recipes", "output": "search query=pasta recipes"}
+{"input": "Could you navigate to bbc.com", "output": "navigate url=https://www.bbc.com"}
+{"input": "Hit the submit button", "output": "click text=Submit"}
+{"input": "Search for translation services", "output": "search query=translation services"}
+{"input": "Tap the directions link", "output": "click text=directions"}
+{"input": "Could you open twitter.com for me?", "output": "navigate url=https://twitter.com"}
+{"input": "Click on the Sign Up button", "output": "click text=Sign Up"}
+{"input": "Go to amazon.com, please", "output": "navigate url=https://amazon.com"}
+{"input": "Click on the Directions button", "output": "click text=Directions"}
+{"input": "Search for best pizza places near me", "output": "search query=best pizza places near me"}
+{"input": "Please visit cnn.com for the latest news.", "output": "navigate url=https://cnn.com"}
+{"input": "Click on subscribe to stay updated.", "output": "click text=subscribe"}
+{"input": "Type hello@example.com into email address.", "output": "type text=hello@example.com field=email address"}
+{"input": "Open maps.google.com to check directions.", "output": "navigate url=https://maps.google.com"}
+{"input": "Search for the best sushi restaurants near me.", "output": "search query=best sushi restaurants near me"}
+{"input": "Head to twitter.com for trending topics.", "output": "navigate url=https://twitter.com"}
+{"input": "Search for how to change a car tire.", "output": "search query=how to change a car tire"}
+{"input": "Could you please load amazon.com?", "output": "navigate url=https://amazon.com"}
+{"input": "Search for upcoming concerts in my area.", "output": "search query=upcoming concerts in my area"}
+{"input": "Would you mind opening bbc.com for world news?", "output": "navigate url=https://bbc.com"}
+{"input": "Press the sign up button.", "output": "click text=sign up"}
+{"input": "Type feedback appreciated into feedback form.", "output": "type text=feedback appreciated field=feedback form"}
+{"input": "Search for the weather forecast for tomorrow.", "output": "search query=weather forecast for tomorrow"}
+{"input": "visit bbc.com for news", "output": "navigate url=https://www.bbc.com"}
+{"input": "click on today's headlines", "output": "click text=Today's Headlines"}
+{"input": "click on subscribe", "output": "click text=Subscribe"}
+{"input": "type 'Hello, how are you?' into chat input", "output": "type text=Hello, how are you? field=chat input"}
+{"input": "Go to amazon.com, please.", "output": "navigate url=https://amazon.com"}
+{"input": "Look up the weather forecast for today.", "output": "search query=weather forecast for today"}
+{"input": "Open bbc.com for the latest headlines.", "output": "navigate url=https://bbc.com"}
+{"input": "Tap the subscribe now link.", "output": "click text=subscribe now"}
+{"input": "Type hello123! into password.", "output": "type text=hello123! field=password"}
+{"input": "Search for how to make lasagna.", "output": "search query=how to make lasagna"}
+{"input": "Visit maps.google.com to find a route.", "output": "navigate url=https://maps.google.com"}
+{"input": "Could you search for stock quotes for Apple?", "output": "search query=stock quotes for Apple"}
+{"input": "Head to youtube.com and explore videos.", "output": "navigate url=https://youtube.com"}
+{"input": "Please click the play button.", "output": "click text=play"}
+{"input": "Type goodmorning@example.com into email To.", "output": "type text=goodmorning@example.com field=email To"}
+{"input": "Search for nearby restaurants.", "output": "search query=nearby restaurants"}
+{"input": "Go to wikipedia.org", "output": "navigate url=https://wikipedia.org"}
+{"input": "Type techguru into username", "output": "type text=techguru field=username"}
+{"input": "Tap the play video button", "output": "click text=play video"}
+{"input": "Could you open twitter.com", "output": "navigate url=https://www.twitter.com"}
+{"input": "Search for local Italian restaurants", "output": "search query=local Italian restaurants"}
+{"input": "Search for weekend weather forecast", "output": "search query=weekend weather forecast"}
+{"input": "Click on the directions button.", "output": "click text=directions"}
+{"input": "Type mysecretpassword into password.", "output": "type text=mysecretpassword field=password"}
+{"input": "Please open youtube.com.", "output": "navigate url=https://www.youtube.com"}
+{"input": "Hit the play video button.", "output": "click text=play video"}
+{"input": "Type feedback about your service into feedback form.", "output": "type text=feedback about your service field=feedback form"}
+{"input": "Search for tech tutorials on AI.", "output": "search query=tech tutorials on AI"}
+{"input": "Tap the follow button.", "output": "click text=Follow"}
+{"input": "Type 'Hello world!' into the comment box.", "output": "type text=Hello world! field=comment box"}
+{"input": "Please head to amazon.com.", "output": "navigate url=https://amazon.com"}
+{"input": "Click add to cart.", "output": "click text=Add to Cart"}
+{"input": "Type 'John Doe' in the name field.", "output": "type text=John Doe field=name"}
+{"input": "Find out what the weather is like in New York.", "output": "search query=weather in New York"}
+{"input": "Press the login button.", "output": "click text=Login"}
+{"input": "Type 'example123' into password.", "output": "type text=example123 field=password"}
+{"input": "Can you search for how to make lasagna?", "output": "search query=how to make lasagna"}
+{"input": "Open maps.google.com, please.", "output": "navigate url=https://maps.google.com"}
+{"input": "Type '123 Main St' in the address field.", "output": "type text=123 Main St field=address"}
+{"input": "Visit youtube.com.", "output": "navigate url=https://youtube.com"}
+{"input": "Click on the subscribe button.", "output": "click text=Subscribe"}
+{"input": "Type 'feedback' into the feedback form.", "output": "type text=feedback field=feedback form"}
+{"input": "Search for the best pizza places near me.", "output": "search query=best pizza places near me"}
+{"input": "search for nearby hiking trails", "output": "search query=nearby hiking trails"}
+{"input": "click the sign up link", "output": "click text=Sign Up"}
+{"input": "look up the latest tech news", "output": "search query=latest tech news"}
+{"input": "could you search for vegan recipes", "output": "search query=vegan recipes"}
+{"input": "tap the submit button", "output": "click text=Submit"}
+{"input": "type promotion2023 into promo code", "output": "type text=promotion2023 field=promo code"}
+{"input": "find translation for hello in French", "output": "search query=translation for hello in French"}
+{"input": "search for the latest news headlines", "output": "search query=latest news headlines"}
+{"input": "find me some easy dinner recipes", "output": "search query=easy dinner recipes"}
+{"input": "type Order #12345 into order number", "output": "type text=Order #12345 field=order number"}
+{"input": "would you mind opening youtube.com", "output": "navigate url=https://youtube.com"}
+{"input": "select the contact us button", "output": "click text=contact us"}
+{"input": "load bbc.com news page", "output": "navigate url=https://www.bbc.com/news"}
+{"input": "hit submit", "output": "click text=Submit"}
+{"input": "click on sign up", "output": "click text=Sign Up"}
+{"input": "type tech enthusiast into username", "output": "type text=tech enthusiast field=username"}
+{"input": "Click on Buy now", "output": "click text=Buy now"}
+{"input": "Search for the best pasta recipes", "output": "search query=the best pasta recipes"}
+{"input": "Open amazon.com, please", "output": "navigate url=https://amazon.com"}
+{"input": "Press Add to cart", "output": "click text=Add to cart"}
+{"input": "Could you type John Doe in the name section?", "output": "type text=John Doe field=name"}
+{"input": "Load bbc.com for me", "output": "navigate url=https://bbc.com"}
+{"input": "Tap on Sign up", "output": "click text=Sign up"}
+{"input": "Type 123 Main Street in address", "output": "type text=123 Main Street field=address"}
+{"input": "Please type P@ssw0rd into password", "output": "type text=P@ssw0rd field=password"}
+{"input": "Click on Watch video", "output": "click text=Watch video"}
+{"input": "Type thank you for your help in feedback form", "output": "type text=thank you for your help field=feedback form"}
+{"input": "Could you search for tech tutorials on Python?", "output": "search query=tech tutorials on Python"}
+{"input": "click subscribe on the newsletter", "output": "click text=Subscribe"}
+{"input": "find stock quotes for Tesla", "output": "search query=Tesla stock quotes"}
+{"input": "tap on the cart icon", "output": "click text=Cart"}
+{"input": "please head to youtube.com", "output": "navigate url=https://youtube.com"}
+{"input": "click on the read more link", "output": "click text=Read more"}
+{"input": "type jane_smith into username", "output": "type text=jane_smith field=username"}
+{"input": "type feedback appreciated in the comment box", "output": "type text=feedback appreciated field=comment box"}
+{"input": "hit the like button", "output": "click text=like"}
+{"input": "type Jane Doe into the name", "output": "type text=Jane Doe field=name"}
+{"input": "Navigate to cnn.com, please.", "output": "navigate url=https://www.cnn.com"}
+{"input": "Click on today's top story.", "output": "click text=Today's Top Story"}
+{"input": "Type pizza delivery into the search bar.", "output": "type text=pizza delivery field=search bar"}
+{"input": "Search for tech stock updates.", "output": "search query=tech stock updates"}
+{"input": "Could you head to bbc.com?", "output": "navigate url=https://www.bbc.com"}
+{"input": "Please click on the sign-up button.", "output": "click text=Sign-Up"}
+{"input": "Type hello123 into password.", "output": "type text=hello123 field=password"}
+{"input": "Look up flight information from LA to NY.", "output": "search query=flight information LA to NY"}
+{"input": "Tap on the add to cart button.", "output": "click text=Add to Cart"}
+{"input": "Search for vegan dinner recipes.", "output": "search query=vegan dinner recipes"}
+{"input": "Press the start navigation button.", "output": "click text=Start Navigation"}
+{"input": "Could you search for today's weather forecast?", "output": "search query=today's weather forecast"}
+{"input": "Open youtube.com.", "output": "navigate url=https://www.youtube.com"}
+{"input": "Click on subscribe.", "output": "click text=Subscribe"}
+{"input": "Type Vacation 2023 into Subject.", "output": "type text=Vacation 2023 field=Subject"}
+{"input": "Search for best local coffee shops.", "output": "search query=best local coffee shops"}
+{"input": "Search for the latest weather updates", "output": "search query=latest weather updates"}
+{"input": "Could you click on subscribe", "output": "click text=subscribe"}
+{"input": "Would you mind visiting youtube.com", "output": "navigate url=https://www.youtube.com"}
+{"input": "Head over to twitter.com for me", "output": "navigate url=https://twitter.com"}
+{"input": "Search for top tech news today", "output": "search query=top tech news today"}
+{"input": "Open bbc.com for the latest updates", "output": "navigate url=https://bbc.com"}
+{"input": "Type mysecretpassword123 into password", "output": "type text=mysecretpassword123 field=password"}
+{"input": "Can you take me to maps.google.com?", "output": "navigate url=https://maps.google.com"}
+{"input": "Tap on the subscribe now link", "output": "click text=subscribe now"}
+{"input": "Type Hello World! into comment box", "output": "type text=Hello World! field=comment box"}
+{"input": "Search for flights from New York to Tokyo", "output": "search query=flights from New York to Tokyo"}
+{"input": "Hit the watch later button", "output": "click text=watch later"}
+{"input": "Type feedback: This app is fantastic! into feedback form", "output": "type text=feedback: This app is fantastic! field=feedback form"}
+{"input": "Can you open youtube.com please?", "output": "navigate url=https://youtube.com"}
+{"input": "Hit the button that says Add to Cart", "output": "click text=Add to Cart"}
+{"input": "Type vacation ideas into the search bar", "output": "type text=vacation ideas field=search bar"}
+{"input": "Could you search for pizza recipes?", "output": "search query=pizza recipes"}
+{"input": "Tap on Read More", "output": "click text=Read More"}
+{"input": "Find stock market updates", "output": "search query=stock market updates"}
+{"input": "Click on Watch Video", "output": "click text=Watch Video"}
+{"input": "Visit gmail.com", "output": "navigate url=https://gmail.com"}
+{"input": "Press the Login button", "output": "click text=Login"}
+{"input": "Could you search for flight deals?", "output": "search query=flight deals"}
+{"input": "click sign in button", "output": "click text=sign in"}
+{"input": "tap the play video button", "output": "click text=play video"}
+{"input": "Search for the best pizza recipe", "output": "search query=best pizza recipe"}
+{"input": "Tap on View Details", "output": "click text=View Details"}
+{"input": "Can you search for flights to Paris?", "output": "search query=flights to Paris"}
+{"input": "Visit bbc.com please", "output": "navigate url=https://bbc.com"}
+{"input": "Press Subscribe Now", "output": "click text=Subscribe Now"}
+{"input": "Type 123 Main St into the address", "output": "type text=123 Main St field=address"}
+{"input": "Find stock quotes for Tesla", "output": "search query=Tesla stock quotes"}
+{"input": "Hit the Sign Up link", "output": "click text=Sign Up"}
+{"input": "Type free2023 into the promo code box", "output": "type text=free2023 field=promo code"}
+{"input": "Type feedback about your excellent service into the feedback form", "output": "type text=feedback about your excellent service field=feedback form"}
+{"input": "head to nytimes.com", "output": "navigate url=https://www.nytimes.com"}
+{"input": "type Welcome2023! into password", "output": "type text=Welcome2023! field=password"}
+{"input": "search for breaking news", "output": "search query=breaking news"}
+{"input": "please load amazon.com", "output": "navigate url=https://www.amazon.com"}
+{"input": "search flights to Tokyo", "output": "search query=flights to Tokyo"}
+{"input": "could you find tech tutorials", "output": "search query=tech tutorials"}
+{"input": "Type hello@example.com into username", "output": "type text=hello@example.com field=username"}
+{"input": "Hit view details", "output": "click text=view details"}
+{"input": "Type free2023 into promo code", "output": "type text=free2023 field=promo code"}
+{"input": "find vegan pasta recipes", "output": "search query=vegan pasta recipes"}
+{"input": "look up flights to New York", "output": "search query=flights to New York"}
+{"input": "type Great service! into feedback form", "output": "type text=Great service! field=feedback form"}
+{"input": "open twitter.com please", "output": "navigate url=https://twitter.com"}
+{"input": "please head to bbc.com", "output": "navigate url=https://bbc.com"}
+{"input": "press the start button", "output": "click text=Start"}
+{"input": "please visit youtube.com", "output": "navigate url=https://youtube.com"}
+{"input": "click on watch now", "output": "click text=Watch Now"}
+{"input": "Please search for flight deals to Paris", "output": "search query=flight deals to Paris"}
+{"input": "Could you click play?", "output": "click text=play"}
+{"input": "Load gmail.com", "output": "navigate url=https://mail.google.com"}
+{"input": "Search the weather in New York", "output": "search query=weather in New York"}
+{"input": "Please go to amazon.com.", "output": "navigate url=https://www.amazon.com"}
+{"input": "Tap the buy now button.", "output": "click text=Buy Now"}
+{"input": "Type john.doe@example.com into the email.", "output": "type text=john.doe@example.com field=email"}
+{"input": "Search for weather updates.", "output": "search query=weather updates"}
+{"input": "Click on the subscribe link.", "output": "click text=Subscribe"}
+{"input": "Type 123456 into the promo code box.", "output": "type text=123456 field=promo code"}
+{"input": "Can you open maps.google.com?", "output": "navigate url=https://maps.google.com"}
+{"input": "Press the login button.", "output": "click text=Log In"}
+{"input": "Find recipes for lasagna.", "output": "search query=recipes for lasagna"}
+{"input": "Could you please load youtube.com?", "output": "navigate url=https://www.youtube.com"}
+{"input": "Type hello there into the chat input.", "output": "type text=hello there field=chat input"}
+{"input": "Head over to docs.google.com.", "output": "navigate url=https://docs.google.com"}
+{"input": "Press the download link.", "output": "click text=Download"}
+{"input": "Type Jane Doe into the name box.", "output": "type text=Jane Doe field=name"}
+{"input": "Could you search for tech tutorials?", "output": "search query=tech tutorials"}
+{"input": "Go to the New York Times website", "output": "navigate url=https://www.nytimes.com"}
+{"input": "Type hello123 in the password box", "output": "type text=hello123 field=password"}
+{"input": "Please navigate to the CNN homepage", "output": "navigate url=https://www.cnn.com"}
+{"input": "Press download now", "output": "click text=download now"}
+{"input": "Visit the Wikipedia main page", "output": "navigate url=https://www.wikipedia.org"}
+{"input": "Type just a moment please in the comment section", "output": "type text=just a moment please field=comment box"}
+{"input": "Head over to Amazon's best sellers page", "output": "navigate url=https://www.amazon.com/Best-Sellers/zgbs"}
+{"input": "Type 1234 Elm Street in the address line", "output": "type text=1234 Elm Street field=address"}
+{"input": "Could you please load the BBC News website?", "output": "navigate url=https://www.bbc.com/news"}
+{"input": "Press join now", "output": "click text=join now"}
+{"input": "Type summer2023 into promo code", "output": "type text=summer2023 field=promo code"}
+{"input": "Search for how to make sourdough bread", "output": "search query=how to make sourdough bread"}
+{"input": "type johndoe@example.com into username", "output": "type text=johndoe@example.com field=username"}
+{"input": "search for best tech gadgets 2023", "output": "search query=best tech gadgets 2023"}
+{"input": "Press the sign-up link", "output": "click text=sign-up"}
+{"input": "Type Welcome2023! into password", "output": "type text=Welcome2023! field=password"}
+{"input": "press the subscribe now link", "output": "click text=subscribe now"}
+{"input": "click the play video button", "output": "click text=play video"}
+{"input": "look up weather in New York City", "output": "search query=weather in New York City"}
+{"input": "type john.doe in username", "output": "type text=john.doe field=username"}
+{"input": "Please tap on the subscribe button", "output": "click text=subscribe"}
+{"input": "Type Hello, how are you? in chat input", "output": "type text=Hello, how are you? field=chat input"}
+{"input": "Look up the weather forecast for tomorrow", "output": "search query=weather forecast for tomorrow"}
+{"input": "Could you click the checkout button?", "output": "click text=checkout"}
+{"input": "Click the download link", "output": "click text=download"}
+{"input": "Type feedback is welcome in feedback form", "output": "type text=feedback is welcome field=feedback form"}
+{"input": "Search for top 10 movie reviews", "output": "search query=top 10 movie reviews"}
+{"input": "Search for the best chocolate cake recipe.", "output": "search query=best chocolate cake recipe"}
+{"input": "Please search for nearby coffee shops.", "output": "search query=nearby coffee shops"}
+{"input": "Tap the Subscribe button.", "output": "click text=Subscribe"}
+{"input": "Type passw0rd! into password.", "output": "type text=passw0rd! field=password"}
+{"input": "Visit bbc.com for me.", "output": "navigate url=https://bbc.com"}
+{"input": "Press the Learn More button.", "output": "click text=Learn More"}
+{"input": "Can you search for tech tutorials online?", "output": "search query=tech tutorials online"}
+{"input": "Click the Sign Up link.", "output": "click text=Sign Up"}
+{"input": "Could you open youtube.com?", "output": "navigate url=https://youtube.com"}
+{"input": "Hit the Get Started button.", "output": "click text=Get Started"}
+{"input": "click login on the page", "output": "click text=login"}
+{"input": "search for the best laptops in 2023", "output": "search query=best laptops in 2023"}
+{"input": "head to bbc.com please", "output": "navigate url=https://www.bbc.com"}
+{"input": "tap on directions", "output": "click text=directions"}
+{"input": "press play on video", "output": "click text=play"}
+{"input": "type 9876543210 into phone number", "output": "type text=9876543210 field=phone number"}
+{"input": "navigate to imdb.com", "output": "navigate url=https://www.imdb.com"}
+{"input": "visit espn.com", "output": "navigate url=https://www.espn.com"}
+{"input": "click the help center link", "output": "click text=help center"}
+{"input": "Visit the official NASA site", "output": "navigate url=https://www.nasa.gov"}
+{"input": "Tap on contact us", "output": "click text=Contact Us"}
+{"input": "Type vacation2023 into password", "output": "type text=vacation2023 field=password"}
+{"input": "Search for Italian restaurants in Chicago", "output": "search query=Italian restaurants in Chicago"}
+{"input": "Open the BBC homepage", "output": "navigate url=https://www.bbc.com"}
+{"input": "Please go to YouTube", "output": "navigate url=https://www.youtube.com"}
+{"input": "Type feedback for the recent update into feedback form", "output": "type text=feedback for the recent update field=feedback form"}
+{"input": "Would you mind searching for Python programming tutorials?", "output": "search query=Python programming tutorials"}
+{"input": "Head over to Amazon", "output": "navigate url=https://www.amazon.com"}
+{"input": "Select add to cart", "output": "click text=Add to Cart"}
+{"input": "Could you search for stock market updates?", "output": "search query=stock market updates"}
+{"input": "please open twitter.com", "output": "navigate url=https://www.twitter.com"}
+{"input": "click on the learn more text", "output": "click text=learn more"}
+{"input": "Navigate to twitter.com for me, please.", "output": "navigate url=https://twitter.com"}
+{"input": "Could you search for the latest weather forecast?", "output": "search query=latest weather forecast"}
+{"input": "Type mypassword123 into password.", "output": "type text=mypassword123 field=password"}
+{"input": "Please head over to amazon.com.", "output": "navigate url=https://amazon.com"}
+{"input": "Find some new pasta recipes online.", "output": "search query=new pasta recipes"}
+{"input": "Press the Add to Cart button.", "output": "click text=Add to Cart"}
+{"input": "Visit bbc.com news section.", "output": "navigate url=https://bbc.com/news"}
+{"input": "Type john_doe into username.", "output": "type text=john_doe field=username"}
+{"input": "Tap the Learn More link.", "output": "click text=Learn More"}
+{"input": "Hit the Submit button.", "output": "click text=Submit"}
+{"input": "Please visit youtube.com.", "output": "navigate url=https://youtube.com"}
+{"input": "Could you find restaurants near me?", "output": "search query=restaurants near me"}
+{"input": "Type Welcome123! into promo code.", "output": "type text=Welcome123! field=promo code"}
+{"input": "Press the Contact Us link.", "output": "click text=Contact Us"}
+{"input": "find flights to Paris", "output": "search query=flights to Paris"}
+{"input": "tap the next button", "output": "click text=next"}
+{"input": "type Best regards, John into message body", "output": "type text=Best regards, John field=message body"}
+{"input": "Go to cnn.com please", "output": "navigate url=http://cnn.com"}
+{"input": "Type alice@example.com into email field", "output": "type text=alice@example.com field=email"}
+{"input": "Load bbc.com", "output": "navigate url=http://bbc.com"}
+{"input": "Hit the login link", "output": "click text=login"}
+{"input": "Type 12345 into zip code field", "output": "type text=12345 field=zip code"}
+{"input": "Search what's the weather in Paris", "output": "search query=weather in Paris"}
+{"input": "Head over to amazon.com", "output": "navigate url=http://amazon.com"}
+{"input": "Type chocolate cake recipe into search bar", "output": "type text=chocolate cake recipe field=search bar"}
+{"input": "Type password123 into password field", "output": "type text=password123 field=password"}
+{"input": "Click the next button", "output": "click text=next"}
+{"input": "Type 456 Elm Street into address field", "output": "type text=456 Elm Street field=address"}
+{"input": "Press Buy Now", "output": "click text=Buy Now"}
+{"input": "Hit Add to Cart", "output": "click text=Add to Cart"}
+{"input": "Please click Watch Later", "output": "click text=Watch Later"}
+{"input": "Would you mind searching for restaurants near me", "output": "search query=restaurants near me"}
+{"input": "Please visit amazon.com for me", "output": "navigate url=https://www.amazon.com"}
+{"input": "Can you search for flights to Tokyo?", "output": "search query=flights to Tokyo"}
+{"input": "Head over to bbc.com news", "output": "navigate url=https://www.bbc.com/news"}
+{"input": "Type john.doe@example.com into the email To line", "output": "type text=john.doe@example.com field=email To"}
+{"input": "Type 123 Main Street into the address line", "output": "type text=123 Main Street field=address"}
+{"input": "Look up tech tutorials for beginners", "output": "search query=tech tutorials for beginners"}
+{"input": "Type SAVE20 into the promo code box", "output": "type text=SAVE20 field=promo code"}
+{"input": "Take me to bbc.com please", "output": "navigate url=https://www.bbc.com"}
+{"input": "Find nearby coffee shops", "output": "search query=nearby coffee shops"}
+{"input": "Enter john.doe@example.com in the email box", "output": "type text=john.doe@example.com field=email"}
+{"input": "Search for best chocolate chip cookie recipe", "output": "search query=best chocolate chip cookie recipe"}
+{"input": "Type 'Hello there!' in the comment box", "output": "type text=Hello there! field=comment box"}
+{"input": "Press submit on the feedback form", "output": "click text=submit"}
+{"input": "Fill in 12345 for zip code", "output": "type text=12345 field=zip code"}
+{"input": "Tap sign up", "output": "click text=sign up"}
+{"input": "Type 'Meet you at 5 PM' in chat input", "output": "type text=Meet you at 5 PM field=chat input"}
+{"input": "Could you take me to docs.google.com?", "output": "navigate url=https://docs.google.com"}
+{"input": "Look up flight deals to Paris", "output": "search query=flight deals to Paris"}
+{"input": "Enter 'promo2023' in the promo code box", "output": "type text=promo2023 field=promo code"}
+{"input": "Click login button", "output": "click text=login"}
+{"input": "Look up latest tech news", "output": "search query=latest tech news"}
+{"input": "Hit the sign up button", "output": "click text=sign up"}
+{"input": "Find translations for hello in French", "output": "search query=translations for hello in French"}
+{"input": "Would you mind clicking the play button", "output": "click text=play"}
+{"input": "Please head to twitter.com", "output": "navigate url=https://twitter.com"}
+{"input": "Tap the Sign In button", "output": "click text=Sign In"}
+{"input": "Find the latest weather updates", "output": "search query=latest weather updates"}
+{"input": "Visit amazon.com for me", "output": "navigate url=https://amazon.com"}
+{"input": "Look for stock quotes", "output": "search query=stock quotes"}
+{"input": "Hit the Play button", "output": "click text=Play"}
+{"input": "search Google for flight deals", "output": "search query=flight deals"}
+{"input": "search news headlines about tech", "output": "search query=tech news headlines"}
+{"input": "Search for the weather forecast", "output": "search query=weather forecast"}
+{"input": "Navigate to amazon.com", "output": "navigate url=https://amazon.com"}
+{"input": "Tap the add to cart button", "output": "click text=Add to Cart"}
+{"input": "Type 1234 Elm St into address", "output": "type text=1234 Elm St field=address"}
+{"input": "Look up flight status", "output": "search query=flight status"}
+{"input": "Click the subscribe button", "output": "click text=Subscribe"}
+{"input": "Type Welcome to the team into email subject", "output": "type text=Welcome to the team field=subject"}
+{"input": "Hit the contact us link", "output": "click text=Contact Us"}
+{"input": "Find stock quotes", "output": "search query=stock quotes"}
+{"input": "Please click the play button", "output": "click text=Play"}
+{"input": "Could you search for best smartphones 2023?", "output": "search query=best smartphones 2023"}
+{"input": "Please go to wikipedia.org", "output": "navigate url=https://wikipedia.org"}
+{"input": "Tap the Buy Now button", "output": "click text=Buy Now"}
+{"input": "Could you please load youtube.com", "output": "navigate url=https://youtube.com"}
+{"input": "Click the Next button", "output": "click text=Next"}
+{"input": "Type Welcome to our service! into feedback form", "output": "type text=Welcome to our service! field=feedback form"}
+{"input": "Search for tech news updates", "output": "search query=tech news updates"}
+{"input": "Press the follow button", "output": "click text=follow"}
+{"input": "Search for the weather in New York", "output": "search query=weather in New York"}
+{"input": "Please load bbc.com", "output": "navigate url=https://www.bbc.com"}
+{"input": "Tap on the read more link", "output": "click text=read more"}
+{"input": "Could you search for best lasagna recipes", "output": "search query=best lasagna recipes"}
+{"input": "Search for the latest movie releases", "output": "search query=latest movie releases"}
+{"input": "Type Summer2024 into promo code", "output": "type text=Summer2024 field=promo code"}
+{"input": "Find recipes for vegan desserts", "output": "search query=vegan desserts recipes"}
+{"input": "Tap on the sports section", "output": "click text=sports"}
+{"input": "Search for top restaurants near me", "output": "search query=top restaurants near me"}
+{"input": "look up tech tutorials on YouTube", "output": "search query=tech tutorials"}
+{"input": "press the start trial button", "output": "click text=start trial"}
+{"input": "could you open nytimes.com", "output": "navigate url=https://www.nytimes.com"}
+{"input": "go to cnn.com please", "output": "navigate url=https://www.cnn.com"}
+{"input": "click on the donate now link", "output": "click text=donate now"}
+{"input": "Open bbc.com for the latest news", "output": "navigate url=https://www.bbc.com"}
+{"input": "Tap the subscribe button on YouTube", "output": "click text=Subscribe"}
+{"input": "Visit amazon.com to shop online", "output": "navigate url=https://www.amazon.com"}
+{"input": "Find current stock quotes for Apple", "output": "search query=current stock quotes for Apple"}
+{"input": "Could you visit espn.com for sports updates?", "output": "navigate url=https://www.espn.com"}
+{"input": "Please type securePass123 into password", "output": "type text=securePass123 field=password"}
+{"input": "Load nytimes.com for the top headlines", "output": "navigate url=https://www.nytimes.com"}
+{"input": "Click on the register button", "output": "click text=Register"}
+{"input": "Press the button that says add to cart.", "output": "click text=add to cart"}
+{"input": "Search for vegan lasagna recipes.", "output": "search query=vegan lasagna recipes"}
+{"input": "Please type john.doe@example.com into email.", "output": "type text=john.doe@example.com field=email"}
+{"input": "Look up the weather in New York.", "output": "search query=weather in New York"}
+{"input": "Type 1234 Maple Street into address.", "output": "type text=1234 Maple Street field=address"}
+{"input": "Type Project Alpha into subject.", "output": "type text=Project Alpha field=subject"}
+{"input": "Find nearby coffee shops.", "output": "search query=nearby coffee shops"}
+{"input": "Please click the terms and conditions link.", "output": "click text=terms and conditions"}
+{"input": "navigate to nytimes.com", "output": "navigate url=https://nytimes.com"}
+{"input": "could you search for best pizza recipes", "output": "search query=best pizza recipes"}
+{"input": "hit sign up", "output": "click text=sign up"}
+{"input": "find flights from NYC to LA", "output": "search query=flights from NYC to LA"}
+{"input": "type enter promo code SAVE20", "output": "type text=SAVE20 field=promo code"}
+{"input": "search for stock quotes Apple", "output": "search query=stock quotes Apple"}
+{"input": "Could you click on the sign in button", "output": "click text=sign in"}
+{"input": "Type hello there in the comment box", "output": "type text=hello there field=comment box"}
+{"input": "Check the weather forecast for tomorrow", "output": "search query=weather forecast for tomorrow"}
+{"input": "Search for the best pizza places near me", "output": "search query=best pizza places near me"}
+{"input": "Tap on the add to cart button", "output": "click text=add to cart"}
+{"input": "Type feedback into the feedback form", "output": "type text=feedback field=feedback form"}
+{"input": "click the Sign In link", "output": "click text=Sign In"}
+{"input": "press the Next button", "output": "click text=Next"}
+{"input": "search for the best pasta recipe", "output": "search query=best pasta recipe"}
+{"input": "tap the like button", "output": "click text=like"}
+{"input": "click on the first result", "output": "click text=first result"}
+{"input": "type my secret password into password", "output": "type text=my secret password field=password"}
+{"input": "search for top restaurants near me", "output": "search query=top restaurants near me"}
+{"input": "Navigate to the New York Times website", "output": "navigate url=https://www.nytimes.com"}
+{"input": "Search for top-rated laptops 2023", "output": "search query=top-rated laptops 2023"}
+{"input": "Find me a recipe for chocolate cake", "output": "search query=recipe for chocolate cake"}
+{"input": "Head over to cnn.com", "output": "navigate url=https://www.cnn.com"}
+{"input": "Search for live stock market updates", "output": "search query=live stock market updates"}
+{"input": "Press the download app button", "output": "click text=download app"}
+{"input": "Could you search for weather tomorrow", "output": "search query=weather tomorrow"}
+{"input": "Type Thank you for your help into feedback form", "output": "type text=Thank you for your help field=feedback form"}
+{"input": "Would you mind heading to bbc.com", "output": "navigate url=https://www.bbc.com"}
+{"input": "Please navigate to cnn.com", "output": "navigate url=https://cnn.com"}
+{"input": "Could you look up stock quotes", "output": "search query=stock quotes"}
+{"input": "Click the add to cart option", "output": "click text=add to cart"}
+{"input": "Search for translations", "output": "search query=translations"}
+{"input": "Look up stock quotes for Apple", "output": "search query=Apple stock quotes"}
+{"input": "Click on the contact us option", "output": "click text=contact us"}
+{"input": "Visit bbc.com for news", "output": "navigate url=https://www.bbc.com"}
+{"input": "Can you search for flight deals to Paris?", "output": "search query=flight deals to Paris"}
+{"input": "Tap the sign-up button", "output": "click text=sign-up"}
+{"input": "Would you mind searching for translation services?", "output": "search query=translation services"}
+{"input": "Click to view more details", "output": "click text=view more details"}
+{"input": "type john.doe@gmail.com into the email field", "output": "type text=john.doe@gmail.com field=email"}
+{"input": "type 1234 into the promo code box", "output": "type text=1234 field=promo code"}
+{"input": "search for flight deals to London", "output": "search query=flight deals to London"}
+{"input": "could you open bbc.com", "output": "navigate url=https://bbc.com"}
+{"input": "search for best tech tutorials", "output": "search query=best tech tutorials"}
+{"input": "click on the directions link", "output": "click text=directions"}
+{"input": "type hello world into the comment box", "output": "type text=hello world field=comment"}
+{"input": "search for translation from English to Spanish", "output": "search query=translation from English to Spanish"}
+{"input": "Type bananas into the search bar", "output": "type text=bananas field=search bar"}
+{"input": "Type hello@example.com in the email field", "output": "type text=hello@example.com field=email"}
+{"input": "Find weather updates for New York", "output": "search query=weather updates for New York"}
+{"input": "Press the watch video button", "output": "click text=watch video"}
+{"input": "Look up recipes for vegan pasta", "output": "search query=recipes for vegan pasta"}
+{"input": "Type SpecialPromo2023 into promo code", "output": "type text=SpecialPromo2023 field=promo code"}
+{"input": "Take me to facebook.com", "output": "navigate url=https://facebook.com"}
+{"input": "Click sign in on the page", "output": "click text=sign in"}
+{"input": "Could you load cnn.com please?", "output": "navigate url=https://cnn.com"}
+{"input": "Find tech news headlines", "output": "search query=tech news headlines"}
+{"input": "Open instagram.com", "output": "navigate url=https://instagram.com"}
+{"input": "Type welcome2023! into password", "output": "type text=welcome2023! field=password"}
+{"input": "Select the add to cart option", "output": "click text=add to cart"}
+{"input": "Search for current stock prices", "output": "search query=current stock prices"}
+{"input": "Type Welcome to my blog into comment box", "output": "type text=Welcome to my blog field=comment box"}
+{"input": "Click on watch later", "output": "click text=watch later"}
+{"input": "Would you mind searching for best smartphone deals?", "output": "search query=best smartphone deals"}
+{"input": "search how to cook pasta", "output": "search query=how to cook pasta"}
+{"input": "hit read more", "output": "click text=read more"}
+{"input": "search for stock market update", "output": "search query=stock market update"}
+{"input": "could you load cnn.com", "output": "navigate url=https://www.cnn.com"}
+{"input": "type awesome product! into feedback form", "output": "type text=awesome product! field=feedback form"}
+{"input": "Click on the log in button", "output": "click text=log in"}
+{"input": "Open amazon.com for me, please", "output": "navigate url=https://amazon.com"}
+{"input": "Tap on the buy now button", "output": "click text=buy now"}
+{"input": "Type 123 Main Street into the address", "output": "type text=123 Main Street field=address"}
+{"input": "Please search for stock quotes", "output": "search query=stock quotes"}
+{"input": "Visit gmail.com when you can", "output": "navigate url=https://gmail.com"}
+{"input": "Type promo2023 into the promo code box", "output": "type text=promo2023 field=promo code"}
+{"input": "search for best travel destinations", "output": "search query=best travel destinations"}
+{"input": "open cnn.com please", "output": "navigate url=https://www.cnn.com"}
+{"input": "search for new tech gadgets 2024", "output": "search query=new tech gadgets 2024"}
+{"input": "Tap on the log in link", "output": "click text=log in"}
+{"input": "Find flights to New York", "output": "search query=flights to New York"}
+{"input": "Could you search for restaurants near me", "output": "search query=restaurants near me"}
+{"input": "click learn more on the homepage", "output": "click text=learn more"}
+{"input": "type This is my feedback into feedback form", "output": "type text=This is my feedback field=feedback form"}
+{"input": "Navigate to wikipedia.org", "output": "navigate url=https://www.wikipedia.org"}
+{"input": "Click the sign-up button", "output": "click text=sign-up"}
+{"input": "Search for how to start investing", "output": "search query=how to start investing"}
+{"input": "Tap the read more link", "output": "click text=read more"}
+{"input": "Could you load maps.google.com please", "output": "navigate url=https://maps.google.com"}
+{"input": "Type Jane Doe into the name", "output": "type text=Jane Doe field=name"}
+{"input": "Click on the watch video button", "output": "click text=watch video"}
+{"input": "search for local gym memberships", "output": "search query=local gym memberships"}
+{"input": "press the login button", "output": "click text=Login"}
+{"input": "search for tech tutorials on YouTube", "output": "search query=tech tutorials on YouTube"}
+{"input": "could you please open bbc.com", "output": "navigate url=https://bbc.com"}
+{"input": "hit the add to cart button", "output": "click text=Add to Cart"}
+{"input": "type Happy Holidays into subject", "output": "type text=Happy Holidays field=subject"}
+{"input": "search for best smartphone deals", "output": "search query=best smartphone deals"}
+{"input": "Please navigate to nytimes.com", "output": "navigate url=https://www.nytimes.com"}
+{"input": "Click the button labeled Submit", "output": "click text=Submit"}
+{"input": "Could you open twitter.com, please?", "output": "navigate url=https://twitter.com"}
+{"input": "Tap Sign In", "output": "click text=Sign In"}
+{"input": "Press the link that says Learn More", "output": "click text=Learn More"}
+{"input": "Find today's stock market update", "output": "search query=today's stock market update"}
+{"input": "Click on the text Read More", "output": "click text=Read More"}
+{"input": "Search for the nearest coffee shop", "output": "search query=nearest coffee shop"}
+{"input": "Hit the button labeled Confirm", "output": "click text=Confirm"}
+{"input": "Input jane.doe@example.com into email", "output": "type text=jane.doe@example.com field=email"}
+{"input": "Could you search for flight deals from NYC to LA?", "output": "search query=flight deals from NYC to LA"}
+{"input": "Click the login button on Twitter.", "output": "click text=Log in"}
+{"input": "Tap the subscribe button on YouTube.", "output": "click text=Subscribe"}
+{"input": "Visit maps.google.com, please.", "output": "navigate url=https://maps.google.com"}
+{"input": "Navigate to linkedin.com.", "output": "navigate url=https://www.linkedin.com"}
+{"input": "Click on the sign up link.", "output": "click text=Sign Up"}
+{"input": "Load netflix.com in the browser.", "output": "navigate url=https://www.netflix.com"}
+{"input": "Hit the add to cart button.", "output": "click text=Add to Cart"}
+{"input": "Search for news headlines today.", "output": "search query=news headlines today"}
+{"input": "Take me to youtube.com please", "output": "navigate url=https://www.youtube.com"}
+{"input": "Search for the best Italian restaurants nearby", "output": "search query=best Italian restaurants nearby"}
+{"input": "Find news on the latest tech trends", "output": "search query=latest tech trends news"}
+{"input": "Could you visit bbc.com for me?", "output": "navigate url=https://www.bbc.com"}
+{"input": "Tap the download button", "output": "click text=download"}
+{"input": "Open docs.google.com", "output": "navigate url=https://docs.google.com"}
+{"input": "Click the learn more link", "output": "click text=learn more"}
+{"input": "Open bbc.com for the latest news.", "output": "navigate url=https://www.bbc.com"}
+{"input": "Please look up the current weather in New York.", "output": "search query=current weather in New York"}
+{"input": "Type 'Summer Sale' into search bar.", "output": "type text=Summer Sale field=search bar"}
+{"input": "Search for flights from LA to Tokyo.", "output": "search query=flights from LA to Tokyo"}
+{"input": "Hit the submit feedback button.", "output": "click text=submit feedback"}
+{"input": "Type '1234 Elm Street' into address.", "output": "type text=1234 Elm Street field=address"}
+{"input": "Could you search for stock quotes of Tesla?", "output": "search query=stock quotes of Tesla"}
+{"input": "Tap the watch video link.", "output": "click text=watch video"}
+{"input": "Type 'Vacation 2023' into subject.", "output": "type text=Vacation 2023 field=subject"}
+{"input": "Navigate to twitter.com.", "output": "navigate url=https://www.twitter.com"}
+{"input": "Search for translations of 'hello' in French.", "output": "search query=translations of 'hello' in French"}
+{"input": "Type 'securepassword123' into password.", "output": "type text=securepassword123 field=password"}
+{"input": "search recipes for vegan desserts", "output": "search query=vegan desserts recipes"}
+{"input": "could you look up weather in Paris", "output": "search query=weather in Paris"}
+{"input": "search for stock quotes for Tesla", "output": "search query=Tesla stock quotes"}
+{"input": "take me to cnn.com", "output": "navigate url=https://www.cnn.com"}
+{"input": "search for Thai recipes", "output": "search query=Thai recipes"}
+{"input": "please search for stock market news", "output": "search query=stock market news"}
+{"input": "would you mind searching for weather tomorrow", "output": "search query=weather tomorrow"}
+{"input": "type abc123 into promo code", "output": "type text=abc123 field=promo code"}
+{"input": "type autumn sale into promo code", "output": "type text=autumn sale field=promo code"}
+{"input": "search for tech tutorials on web development", "output": "search query=tech tutorials on web development"}
+{"input": "Please head to cnn.com", "output": "navigate url=https://www.cnn.com"}
+{"input": "Click the read more link", "output": "click text=read more"}
+{"input": "Type hello into comment box", "output": "type text=hello field=comment box"}
+{"input": "click Sign Up button", "output": "click text=Sign Up"}
+{"input": "click Read More", "output": "click text=Read More"}
+{"input": "click Subscribe", "output": "click text=Subscribe"}
+{"input": "Could you head to bbc.com please?", "output": "navigate url=https://www.bbc.com"}
+{"input": "Tap the search bar and type 'climate change news'", "output": "type text=climate change news field=search bar"}
+{"input": "Find the latest stock prices for Apple", "output": "search query=latest stock prices for Apple"}
+{"input": "Visit amazon.com when you have a moment", "output": "navigate url=https://www.amazon.com"}
+{"input": "Press the submit comment button", "output": "click text=submit comment"}
+{"input": "Load maps.google.com and let me know", "output": "navigate url=https://maps.google.com"}
+{"input": "Look up weather forecast for Paris", "output": "search query=weather forecast for Paris"}
+{"input": "Hit the continue as guest option", "output": "click text=continue as guest"}
+{"input": "Open youtube.com and let's explore", "output": "navigate url=https://www.youtube.com"}
+{"input": "Could you search for best hiking trails near me?", "output": "search query=best hiking trails near me"}
+{"input": "Press the learn more link", "output": "click text=learn more"}
+{"input": "Would you mind navigating to nytimes.com?", "output": "navigate url=https://www.nytimes.com"}
+{"input": "Type 'feedback' in the feedback form", "output": "type text=feedback field=feedback form"}
+{"input": "Find out how to tie a bow tie", "output": "search query=how to tie a bow tie"}
+{"input": "Click the subscribe now button", "output": "click text=subscribe now"}
+{"input": "Could you head to twitter.com please?", "output": "navigate url=https://twitter.com"}
+{"input": "Can you look up today's weather in Paris?", "output": "search query=today's weather in Paris"}
+{"input": "Please load maps.google.com", "output": "navigate url=https://maps.google.com"}
+{"input": "Type 456 Market Street into address", "output": "type text=456 Market Street field=address"}
+{"input": "Please click the sign-up button", "output": "click text=sign-up"}
+{"input": "Type myname123 into username", "output": "type text=myname123 field=username"}
+{"input": "Search for the best Italian restaurants in New York", "output": "search query=best Italian restaurants in New York"}
+{"input": "Go to amazon.com and check out the deals", "output": "navigate url=https://www.amazon.com"}
+{"input": "Click the play video button", "output": "click text=play video"}
+{"input": "Find the current weather in Los Angeles", "output": "search query=current weather in Los Angeles"}
+{"input": "Visit youtube.com for some entertainment", "output": "navigate url=https://www.youtube.com"}
+{"input": "Click on the subscribe now link", "output": "click text=subscribe now"}
+{"input": "Search for the stock price of Apple", "output": "search query=stock price of Apple"}
+{"input": "Head to maps.google.com to find directions", "output": "navigate url=https://maps.google.com"}
+{"input": "Visit bbc.com for global news", "output": "navigate url=https://www.bbc.com"}
+{"input": "Please navigate to facebook.com", "output": "navigate url=https://facebook.com"}
+{"input": "Could you click on the subscribe button?", "output": "click text=subscribe"}
+{"input": "Search for top-rated Italian restaurants", "output": "search query=top-rated Italian restaurants"}
+{"input": "Type Hello World into the comment section", "output": "type text=Hello World field=comment"}
+{"input": "Type 123 Main St into the address box", "output": "type text=123 Main St field=address"}
+{"input": "Type feedback into the feedback form", "output": "type text=feedback field=feedback"}
+{"input": "find the latest stock quotes", "output": "search query=latest stock quotes"}
+{"input": "look up how to tie a tie tutorial", "output": "search query=how to tie a tie tutorial"}
+{"input": "type summer21 into promo code", "output": "type text=summer21 field=promo code"}
+{"input": "Type sunny weather in Miami into search bar", "output": "type text=sunny weather in Miami field=search bar"}
+{"input": "Press on Add to Cart", "output": "click text=Add to Cart"}
+{"input": "Search for tech tutorials on Python", "output": "search query=tech tutorials on Python"}
+{"input": "Click on Watch Now", "output": "click text=Watch Now"}
+{"input": "Type New York City into comment box", "output": "type text=New York City field=comment box"}
+{"input": "Click on Log In", "output": "click text=Log In"}
+{"input": "Type Seattle into feedback form", "output": "type text=Seattle field=feedback form"}
+{"input": "Go to twitter.com for me", "output": "navigate url=https://twitter.com"}
+{"input": "Click the button that says add to cart", "output": "click text=add to cart"}
+{"input": "Navigate to maps.google.com please", "output": "navigate url=https://maps.google.com"}
+{"input": "Can you search for best Italian recipes", "output": "search query=best Italian recipes"}
+{"input": "Press the link that reads contact us", "output": "click text=contact us"}
+{"input": "Please type johndoe@gmail.com into email", "output": "type text=johndoe@gmail.com field=email"}
+{"input": "Tap the button labeled subscribe now", "output": "click text=subscribe now"}
+{"input": "Type John Smith in name", "output": "type text=John Smith field=name"}
+{"input": "Could you head over to bbc.com", "output": "navigate url=https://bbc.com"}
+{"input": "Search for how to start a garden", "output": "search query=how to start a garden"}
+{"input": "Hit the link with the text privacy policy", "output": "click text=privacy policy"}
+{"input": "Type 1234 Elm Street in address", "output": "type text=1234 Elm Street field=address"}
+{"input": "Please open youtube.com", "output": "navigate url=https://youtube.com"}
+{"input": "Click on the button that says join now", "output": "click text=join now"}
+{"input": "Type hello world into the chat input", "output": "type text=hello world field=chat input"}
+{"input": "Press the submit feedback button", "output": "click text=submit feedback"}
+{"input": "Hit the subscribe link", "output": "click text=subscribe"}
+{"input": "Search for chocolate cake recipe", "output": "search query=chocolate cake recipe"}
+{"input": "Click the learn more text", "output": "click text=learn more"}
+{"input": "Type P.O. Box 123 into address", "output": "type text=P.O. Box 123 field=address"}
+{"input": "Find cheap flights from New York to London", "output": "search query=cheap flights from New York to London"}
+{"input": "Click on the home icon", "output": "click text=home"}
+{"input": "Please click on contact us", "output": "click text=contact us"}
+{"input": "search the latest technology news", "output": "search query=latest technology news"}
+{"input": "visit linkedin.com", "output": "navigate url=http://linkedin.com"}
+{"input": "tap submit", "output": "click text=submit"}
+{"input": "type jane.doe@gmail.com into username", "output": "type text=jane.doe@gmail.com field=username"}
+{"input": "head to pinterest.com", "output": "navigate url=http://pinterest.com"}
+{"input": "type feedback on the website is great into feedback form", "output": "type text=feedback on the website is great field=feedback form"}
+{"input": "type securePass123 into password", "output": "type text=securePass123 field=password"}
+{"input": "find local yoga classes near me", "output": "search query=local yoga classes near me"}
+{"input": "look up current stock market trends", "output": "search query=current stock market trends"}
+{"input": "could you load bbc.com please", "output": "navigate url=https://www.bbc.com"}
+{"input": "Type ilovecats123 into password", "output": "type text=ilovecats123 field=password"}
+{"input": "Find me the latest tech tutorials", "output": "search query=latest tech tutorials"}
+{"input": "Tap on the play button", "output": "click text=play"}
+{"input": "Type pizza party into search bar", "output": "type text=pizza party field=search bar"}
+{"input": "Could you search for upcoming music festivals?", "output": "search query=upcoming music festivals"}
+{"input": "Navigate to gmail.com", "output": "navigate url=https://www.gmail.com"}
+{"input": "Search for translation services online", "output": "search query=translation services online"}
+{"input": "navigate to cnn.com", "output": "navigate url=https://cnn.com"}
+{"input": "click sign in on the Netflix page", "output": "click text=sign in"}
+{"input": "tap submit on the contact form", "output": "click text=submit"}
+{"input": "look up current stock price of Apple", "output": "search query=current stock price of Apple"}
+{"input": "head over to wikipedia.org", "output": "navigate url=https://wikipedia.org"}
+{"input": "click on view cart on the shopping site", "output": "click text=view cart"}
+{"input": "find out the weather in Paris", "output": "search query=weather in Paris"}
+{"input": "click download on the software page", "output": "click text=download"}
+{"input": "tap on the buy now option", "output": "click text=buy now"}
+{"input": "search for delicious pasta recipes", "output": "search query=delicious pasta recipes"}
+{"input": "type 123 Main Street into the address", "output": "type text=123 Main Street field=address"}
+{"input": "please open youtube.com", "output": "navigate url=https://youtube.com"}
+{"input": "type thank you for your help into the feedback form", "output": "type text=thank you for your help field=feedback form"}
+{"input": "search for tech tutorials on JavaScript", "output": "search query=tech tutorials on JavaScript"}
+{"input": "Open amazon.com for me", "output": "navigate url=https://www.amazon.com"}
+{"input": "please search for best travel destinations", "output": "search query=best travel destinations"}
+{"input": "tap on the play video button", "output": "click text=play video"}
+{"input": "could you search for stock market news", "output": "search query=stock market news"}
+{"input": "hit the subscribe now button", "output": "click text=subscribe now"}
+{"input": "type jdoe123 into username", "output": "type text=jdoe123 field=username"}
+{"input": "search for how to learn Spanish quickly", "output": "search query=how to learn Spanish quickly"}
+{"input": "could you search for restaurants near me", "output": "search query=restaurants near me"}
+{"input": "press on the news section", "output": "click text=news"}
+{"input": "search for today's weather in Paris", "output": "search query=today's weather in Paris"}
+{"input": "select subscribe", "output": "click text=subscribe"}
+{"input": "can you look up translations for bonjour", "output": "search query=translations for bonjour"}
+{"input": "Navigate to amazon.com, please.", "output": "navigate url=https://www.amazon.com"}
+{"input": "Type welcome123 into the password box.", "output": "type text=welcome123 field=password"}
+{"input": "Tap on the 'Add to Cart' button.", "output": "click text=Add to Cart"}
+{"input": "Please search for chocolate cake recipes.", "output": "search query=chocolate cake recipes"}
+{"input": "Press the 'Watch Later' button on YouTube.", "output": "click text=Watch Later"}
+{"input": "Type Sarah Connor into the name section.", "output": "type text=Sarah Connor field=name"}
+{"input": "Can you look up stock quotes for Apple?", "output": "search query=Apple stock quotes"}
+{"input": "Load espn.com for me.", "output": "navigate url=https://www.espn.com"}
+{"input": "Click the 'Sign Up' link.", "output": "click text=Sign Up"}
+{"input": "Type 555-1234 into the phone number input.", "output": "type text=555-1234 field=phone number"}
+{"input": "Open nytimes.com.", "output": "navigate url=https://www.nytimes.com"}
+{"input": "Select the 'Buy Now' option.", "output": "click text=Buy Now"}
+{"input": "Type 123 Main St into the address line.", "output": "type text=123 Main St field=address"}
+{"input": "Could you please find a translation for bonjour?", "output": "search query=translation for bonjour"}
+{"input": "search for best travel destinations 2024", "output": "search query=best travel destinations 2024"}
+{"input": "please head to amazon.com", "output": "navigate url=https://www.amazon.com"}
+{"input": "type Alice in Wonderland into search bar", "output": "type text=Alice in Wonderland field=search bar"}
+{"input": "find latest stock market news", "output": "search query=latest stock market news"}
+{"input": "search for vegan chocolate cake recipe", "output": "search query=vegan chocolate cake recipe"}
+{"input": "hit the directions link", "output": "click text=directions"}
+{"input": "click on the sign in button", "output": "click text=Sign in"}
+{"input": "search for the best pizza recipe", "output": "search query=best pizza recipe"}
+{"input": "tap on today's deals", "output": "click text=Today's Deals"}
+{"input": "type sale2023 in promo code", "output": "type text=sale2023 field=promo code"}
+{"input": "click on the sports section", "output": "click text=Sports"}
+{"input": "hit the directions button", "output": "click text=Directions"}
+{"input": "press play on the video", "output": "click text=Play"}
+{"input": "type password123 in the password", "output": "type text=password123 field=password"}
+{"input": "Find the best sushi restaurants nearby.", "output": "search query=best sushi restaurants nearby"}
+{"input": "Please press the Sign Up button.", "output": "click text=Sign Up"}
+{"input": "Type Let's catch up soon into message box.", "output": "type text=Let's catch up soon field=message box"}
+{"input": "Would you mind heading over to bbc.com?", "output": "navigate url=https://www.bbc.com"}
+{"input": "Tap on the Subscribe now option.", "output": "click text=Subscribe now"}
+{"input": "Open maps.google.com for me.", "output": "navigate url=https://maps.google.com"}
+{"input": "Hit the Learn more button.", "output": "click text=Learn more"}
+{"input": "Visit cnn.com when you get a chance.", "output": "navigate url=https://www.cnn.com"}
+{"input": "Please click on the Download PDF link.", "output": "click text=Download PDF"}
+{"input": "Type Save 20% into promo code.", "output": "type text=Save 20% field=promo code"}
+{"input": "tap the sign up button", "output": "click text=Sign up"}
+{"input": "look up the latest tech gadgets", "output": "search query=latest tech gadgets"}
+{"input": "click on the directions link", "output": "click text=Directions"}
+{"input": "tap play on the video", "output": "click text=Play"}
+{"input": "Tap the button that says Sign Up", "output": "click text=Sign Up"}
+{"input": "Search for the latest stock market trends", "output": "search query=latest stock market trends"}
+{"input": "Could you search for best hiking trails near me", "output": "search query=best hiking trails near me"}
+{"input": "Press the Subscribe now link", "output": "click text=Subscribe now"}
+{"input": "Visit twitter.com", "output": "navigate url=https://twitter.com"}
+{"input": "Hit the button labeled Learn More", "output": "click text=Learn More"}
+{"input": "Find the weather forecast for tomorrow", "output": "search query=weather forecast for tomorrow"}
+{"input": "Click on the icon that says Download", "output": "click text=Download"}
+{"input": "Type specialoffer into promo code", "output": "type text=specialoffer field=promo code"}
+{"input": "Look up the translation for hello in French", "output": "search query=translation for hello in French"}
+{"input": "take me to instagram.com", "output": "navigate url=https://www.instagram.com"}
+{"input": "tap on Add to Cart", "output": "click text=Add to Cart"}
+{"input": "press the Sign Up button", "output": "click text=Sign Up"}
+{"input": "click the Learn More option", "output": "click text=Learn More"}
+{"input": "could you load amazon.com", "output": "navigate url=https://www.amazon.com"}
+{"input": "look up flights from New York to London", "output": "search query=flights from New York to London"}
+{"input": "click the Subscribe now button", "output": "click text=Subscribe now"}
+{"input": "type Best vacation ever! into Subject", "output": "type text=Best vacation ever! field=Subject"}
+{"input": "Type hello world into search bar", "output": "type text=hello world field=search bar"}
+{"input": "Find out the weather for tomorrow", "output": "search query=weather for tomorrow"}
+{"input": "Can you search for best hiking trails?", "output": "search query=best hiking trails"}
+{"input": "Please click on the contact us link", "output": "click text=contact us"}
+{"input": "Type feedback in feedback form", "output": "type text=feedback field=feedback form"}
+{"input": "Look up news headlines", "output": "search query=news headlines"}
+{"input": "Navigate to wikipedia.org for me.", "output": "navigate url=https://www.wikipedia.org"}
+{"input": "Click on the trending section.", "output": "click text=Trending"}
+{"input": "Search for local coffee shops nearby.", "output": "search query=local coffee shops nearby"}
+{"input": "Could you visit nytimes.com please?", "output": "navigate url=https://www.nytimes.com"}
+{"input": "Tap on sign up now.", "output": "click text=Sign Up Now"}
+{"input": "Find me some pasta recipes.", "output": "search query=pasta recipes"}
+{"input": "Press on latest news.", "output": "click text=Latest News"}
+{"input": "Please type welcome2023 into the promo code box.", "output": "type text=welcome2023 field=promo code"}
+{"input": "Head to espn.com.", "output": "navigate url=https://www.espn.com"}
+{"input": "Select the watch live option.", "output": "click text=Watch Live"}
+{"input": "Kindly enter John Doe into the name field.", "output": "type text=John Doe field=name"}
+{"input": "Visit amazon.com for shopping.", "output": "navigate url=https://www.amazon.com"}
+{"input": "Hit subscribe on the page.", "output": "click text=Subscribe"}
+{"input": "Type feedback into the comment box.", "output": "type text=feedback field=comment"}
+{"input": "Please search for popular movies 2023.", "output": "search query=popular movies 2023"}
+{"input": "Search for weather today", "output": "search query=weather today"}
+{"input": "Could you search for best pasta recipes?", "output": "search query=best pasta recipes"}
+{"input": "Please open youtube.com", "output": "navigate url=https://www.youtube.com"}
+{"input": "Would you mind searching for tech tutorials?", "output": "search query=tech tutorials"}
+{"input": "Tap the send button", "output": "click text=send"}
+{"input": "Search for latest news headlines", "output": "search query=latest news headlines"}
+{"input": "Type 1234 Main Street into address", "output": "type text=1234 Main Street field=address"}
+{"input": "Look up flight information for Los Angeles to Tokyo", "output": "search query=flight information Los Angeles to Tokyo"}
+{"input": "Search for vegan pancake recipes", "output": "search query=vegan pancake recipes"}
+{"input": "Search for top tech news headlines", "output": "search query=top tech news headlines"}
+{"input": "Find the stock quote for Apple", "output": "search query=stock quote for Apple"}
+{"input": "click the sign up now link", "output": "click text=sign up now"}
+{"input": "Visit twitter.com please", "output": "navigate url=https://twitter.com"}
+{"input": "Search for the best chocolate chip cookie recipes", "output": "search query=best chocolate chip cookie recipes"}
+{"input": "Click Subscribe now", "output": "click text=Subscribe now"}
+{"input": "What's the weather like in New York?", "output": "search query=weather in New York"}
+{"input": "Type mySecurePassword123 into password", "output": "type text=mySecurePassword123 field=password"}
+{"input": "Tap Watch video", "output": "click text=Watch video"}
+{"input": "Type hello world into chat", "output": "type text=hello world field=chat"}
+{"input": "Select Proceed to checkout", "output": "click text=Proceed to checkout"}
+{"input": "Look up latest stock quotes", "output": "search query=latest stock quotes"}
+{"input": "Type feedback about the service", "output": "type text=Great service, really enjoyed it! field=feedback"}
+{"input": "Hit Sign up", "output": "click text=Sign up"}
+{"input": "Type jane.smith in the username", "output": "type text=jane.smith field=username"}
+{"input": "Could you click add to cart", "output": "click text=add to cart"}
+{"input": "Please search for the weather today", "output": "search query=weather today"}
+{"input": "Go to wikipedia.org", "output": "navigate url=https://www.wikipedia.org"}
+{"input": "Search for the best pasta recipes", "output": "search query=best pasta recipes"}
+{"input": "Please type hello123 into password", "output": "type text=hello123 field=password"}
+{"input": "Click add to cart button", "output": "click text=add to cart"}
+{"input": "Visit weather.com", "output": "navigate url=https://www.weather.com"}
+{"input": "Could you type 'Best regards' into comment box?", "output": "type text=Best regards field=comment box"}
+{"input": "Tap learn more", "output": "click text=learn more"}
+{"input": "Press contact us", "output": "click text=contact us"}
+{"input": "Search for tech tutorials on blockchain", "output": "search query=tech tutorials on blockchain"}
+{"input": "Click on watch video", "output": "click text=watch video"}
+{"input": "Take me to amazon.com", "output": "navigate url=https://www.amazon.com"}
+{"input": "Search for best chocolate cake recipes", "output": "search query=best chocolate cake recipes"}
+{"input": "Click the subscribe button please", "output": "click text=subscribe"}
+{"input": "Search for tech tutorials on web development", "output": "search query=tech tutorials on web development"}
+{"input": "Could you click the send button?", "output": "click text=send"}
+{"input": "Tap on add to cart", "output": "click text=Add to Cart"}
+{"input": "Click subscribe now", "output": "click text=Subscribe Now"}
+{"input": "Press play video", "output": "click text=Play Video"}
+{"input": "Hit contact us", "output": "click text=Contact Us"}
+{"input": "Take me to youtube.com", "output": "navigate url=https://www.youtube.com"}
+{"input": "Press the sign in button", "output": "click text=Sign In"}
+{"input": "Click the subscribe link", "output": "click text=Subscribe"}
+{"input": "Hit the contact us button", "output": "click text=Contact Us"}
+{"input": "Could you search for the latest tech tutorials?", "output": "search query=latest tech tutorials"}
+{"input": "Press the download button", "output": "click text=Download"}
+{"input": "Type feedback here is excellent into feedback form", "output": "type text=feedback here is excellent field=feedback form"}
+{"input": "Search for recipes with avocado", "output": "search query=recipes with avocado"}
+{"input": "Search for the best pizza recipes", "output": "search query=best pizza recipes"}
+{"input": "Find flight deals to Tokyo", "output": "search query=flight deals to Tokyo"}
+{"input": "Tap the start free trial button", "output": "click text=start free trial"}
+{"input": "Search for technology news headlines", "output": "search query=technology news headlines"}
+{"input": "Press the login button", "output": "click text=Login"}
+{"input": "Look up the weather in Paris", "output": "search query=weather in Paris"}
+{"input": "Tap the subscribe button", "output": "click text=Subscribe"}
+{"input": "Find flights to Tokyo", "output": "search query=flights to Tokyo"}
+{"input": "Click on the play button", "output": "click text=Play"}
+{"input": "Could you look up stock quotes for Apple?", "output": "search query=Apple stock quotes"}
+{"input": "type tech gadgets into the search bar", "output": "type text=tech gadgets field=search bar"}
+{"input": "tap the Sign Up button", "output": "click text=Sign Up"}
+{"input": "visit bbc.com for the latest news", "output": "navigate url=https://bbc.com"}
+{"input": "click on the FAQ section", "output": "click text=FAQ"}
+{"input": "open maps.google.com and find directions", "output": "navigate url=https://maps.google.com"}
+{"input": "type Welcome to our newsletter into Subject", "output": "type text=Welcome to our newsletter field=Subject"}
+{"input": "load youtube.com and enjoy some videos", "output": "navigate url=https://youtube.com"}
+{"input": "click on About Us", "output": "click text=About Us"}
+{"input": "type feedback in the comments section", "output": "type text=feedback field=comments"}
+{"input": "search for translation of Hello in Spanish", "output": "search query=translation of Hello in Spanish"}
+{"input": "Can you load bbc.com for me?", "output": "navigate url=https://www.bbc.com"}
+{"input": "Please click the Contact Us link.", "output": "click text=Contact Us"}
+{"input": "Head over to maps.google.com, please.", "output": "navigate url=https://maps.google.com"}
+{"input": "Find recipes for vegan pasta.", "output": "search query=recipes for vegan pasta"}
+{"input": "Please tap the Add to Cart button.", "output": "click text=Add to Cart"}
+{"input": "Hit the Watch Video button.", "output": "click text=Watch Video"}
+{"input": "Search for flights to Tokyo.", "output": "search query=flights to Tokyo"}
+{"input": "Tap the sign in button.", "output": "click text=Sign in"}
+{"input": "Look up today's weather.", "output": "search query=today's weather"}
+{"input": "Press the play button.", "output": "click text=Play"}
+{"input": "Type password1234 into the password.", "output": "type text=password1234 field=password"}
+{"input": "Find stock market news.", "output": "search query=stock market news"}
+{"input": "Type This is a test message into the chat input.", "output": "type text=This is a test message field=chat input"}
+{"input": "Could you search for Italian recipes?", "output": "search query=Italian recipes"}
+{"input": "Could you navigate to amazon.com, please?", "output": "navigate url=https://www.amazon.com"}
+{"input": "Click buy now", "output": "click text=buy now"}
+{"input": "Search for top pizza recipes", "output": "search query=top pizza recipes"}
+{"input": "Type BestCoder2023 into username", "output": "type text=BestCoder2023 field=username"}
+{"input": "Look up best pizza recipes", "output": "search query=best pizza recipes"}
+{"input": "Could you please go to amazon.com?", "output": "navigate url=https://www.amazon.com"}
+{"input": "Hit the Buy Now button.", "output": "click text=Buy Now"}
+{"input": "Enter secret123 into password", "output": "type text=secret123 field=password"}
+{"input": "Look up weather in New York.", "output": "search query=weather in New York"}
+{"input": "Tap the Like button.", "output": "click text=Like"}
+{"input": "Input 1234 Main St into address", "output": "type text=1234 Main St field=address"}
+{"input": "Visit docs.google.com", "output": "navigate url=https://docs.google.com"}
+{"input": "Select the Save option.", "output": "click text=Save"}
+{"input": "Type Meeting at 10 AM into Subject", "output": "type text=Meeting at 10 AM field=Subject"}
+{"input": "Click the Directions button.", "output": "click text=Directions"}
+{"input": "Type feedback into comment box", "output": "type text=Great service! field=comment box"}
+{"input": "Click on the sign-up button.", "output": "click text=sign up"}
+{"input": "Type hello world into the chat input.", "output": "type text=hello world field=chat input"}
+{"input": "Find vegan pasta recipes online.", "output": "search query=vegan pasta recipes"}
+{"input": "Search for cheap flights to Tokyo.", "output": "search query=cheap flights to Tokyo"}
+{"input": "Select the play video button.", "output": "click text=play video"}
