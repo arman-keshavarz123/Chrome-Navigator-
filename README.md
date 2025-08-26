@@ -6,7 +6,6 @@ A voice-controlled Chrome extension that allows users to control browser actions
 
 - **Voice Control**: Use natural language to control your browser
 - **Local Processing**: All speech recognition and language processing happens on your machine
-- **Privacy-First**: No voice data is sent to external services
 - **Comprehensive Coverage**: Supports common browsing tasks like:
   - Navigation (go back, go forward, navigate to URLs)
   - Tab management (open, close, switch tabs)
