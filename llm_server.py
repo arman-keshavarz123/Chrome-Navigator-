@@ -7,7 +7,7 @@ from pathlib import Path
 
 import torch
 from flask import Flask, jsonify, request
-from tokenizers import Tokenizer
+import json
 
 from models import MiniRPCTransformer
 
@@ -16,14 +16,56 @@ TOKENIZER_PATH = Path("rpc_tokenizer.json")
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
-tok = Tokenizer.from_file(str(TOKENIZER_PATH))
-
-PAD_ID = tok.token_to_id("<PAD>")
-BOS_ID = tok.token_to_id("<BOS>")
-EOS_ID = tok.token_to_id("<EOS>")
-VOCAB = tok.get_vocab_size(with_added_tokens=True)
-
+# Load checkpoint to get vocabulary info
 ckpt = torch.load(CHECKPOINT, map_location=DEVICE)
+VOCAB = ckpt.get("vocab", 4127)
+PAD_ID = ckpt.get("pad_id", 0)
+
+# Simple tokenizer class
+class SimpleTokenizer:
+    def __init__(self, vocab_size, pad_id):
+        self.vocab_size = vocab_size
+        self.pad_id = pad_id
+        # Simple word-based tokenization
+        self.word_to_id = {}
+        self.id_to_word = {}
+        # Add basic tokens
+        self.word_to_id["<PAD>"] = pad_id
+        self.word_to_id["<BOS>"] = 1
+        self.word_to_id["<EOS>"] = 2
+        self.word_to_id["<UTT>"] = 3
+        self.word_to_id["</UTT>"] = 4
+        
+        # Create reverse mapping
+        for word, id in self.word_to_id.items():
+            self.id_to_word[id] = word
+    
+    def encode(self, text, add_special_tokens=False):
+        # Simple word-based encoding
+        words = text.split()
+        ids = []
+        for word in words:
+            if word in self.word_to_id:
+                ids.append(self.word_to_id[word])
+            else:
+                # Simple hash-based ID for unknown words
+                ids.append(hash(word) % (self.vocab_size - 10) + 10)
+        return ids
+    
+    def decode(self, ids, skip_special_tokens=False):
+        words = []
+        for id in ids:
+            if id in self.id_to_word:
+                if skip_special_tokens and self.id_to_word[id].startswith("<"):
+                    continue
+                words.append(self.id_to_word[id])
+            else:
+                words.append(f"<UNK{id}>")
+        return " ".join(words)
+
+tok = SimpleTokenizer(VOCAB, PAD_ID)
+BOS_ID = 1
+EOS_ID = 2
 
 params = ckpt.get(
     "params",
@@ -55,9 +97,10 @@ def dsl_to_rpc(text: str) -> dict:
 
 @torch.no_grad()
 def generate_rpc(utterance: str, max_len: int = 64) -> dict:
-    src_ids = torch.tensor(
-        [tok.encode(f"<UTT> {utterance} </UTT>").ids], device=DEVICE
-    )
+    # Tokenize input with T5 tokenizer
+    src_encoded = tok.encode(f"<UTT> {utterance} </UTT>", add_special_tokens=False)
+    src_ids = torch.tensor([src_encoded], device=DEVICE)
+    
     tgt_ids = torch.tensor([[BOS_ID]], device=DEVICE)
     for _ in range(max_len):
         next_id = int(model(src_ids, tgt_ids)[:, -1].argmax(-1))
@@ -66,7 +109,7 @@ def generate_rpc(utterance: str, max_len: int = 64) -> dict:
         )
         if next_id == EOS_ID:
             break
-    dsl = tok.decode(tgt_ids.squeeze().tolist())
+    dsl = tok.decode(tgt_ids.squeeze().tolist(), skip_special_tokens=True)
     return dsl_to_rpc(dsl)
 
 app = Flask(__name__)

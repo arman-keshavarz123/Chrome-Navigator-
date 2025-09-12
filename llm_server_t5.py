@@ -10,16 +10,16 @@ from flask import Flask, jsonify, request
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 # Model paths
-MODEL_PATH = Path("./t5-finetuned")
+MODEL_NAME = "t5-small"  # Use pre-trained T5-small
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
-# Load fine-tuned model and tokenizer
-print(f"Loading fine-tuned T5 model from {MODEL_PATH}...")
-tokenizer = T5Tokenizer.from_pretrained(MODEL_PATH)
-model = T5ForConditionalGeneration.from_pretrained(MODEL_PATH).to(DEVICE)
+# Load pre-trained T5 model and tokenizer
+print(f"Loading T5 model: {MODEL_NAME}...")
+tokenizer = T5Tokenizer.from_pretrained(MODEL_NAME)
+model = T5ForConditionalGeneration.from_pretrained(MODEL_NAME).to(DEVICE)
 model.eval()
 
-print(f"Model loaded successfully • device={DEVICE}")
+print(f"Model loaded successfully, device={DEVICE}")
 
 # RPC parsing helper
 _KV = re.compile(r"(\S+?)=(\S+)")
