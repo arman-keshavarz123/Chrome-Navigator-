@@ -2,6 +2,8 @@
 
 A voice-controlled Chrome extension that allows users to control browser actions using natural language commands through a locally-deployed machine learning model.
 
+## NOTE 
+- **Developing agentic workflow to handle entire computer navigation**
 ## Features
 
 - **Voice Control**: Use natural language to control your browser
@@ -20,35 +22,6 @@ A voice-controlled Chrome extension that allows users to control browser actions
 2. **Local Processing**: Your voice is converted to text and sent to a local Flask server
 3. **ML Inference**: A trained transformer model converts natural language to RPC commands
 4. **Browser Execution**: The extension executes the command using Chrome's APIs
-
-## Installation & Setup
-
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/Chrome-Navigator.git
-cd Chrome-Navigator
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Start the Local Server
-
-```bash
-python llm_server_t5.py
-```
-
-### 4. Load the Chrome Extension
-
-1. Open Chrome and go to `chrome://extensions/`
-2. Enable "Developer mode" (toggle in top right)
-3. Click "Load unpacked" and select the `extension/` folder
-4. The Chrome Navigator extension should now appear in your toolbar
 
 ## Usage
 
